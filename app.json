@@ -3,6 +3,8 @@
     "name": "eduhub-mobile-manager",
     "slug": "snack-18bbd980-b700-4be0-82e8-ac777a6647fa",
     "version": "1.0.0",
+        "android": {
+      "package": "com.antonikasprzycki.eduhub"
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
